@@ -18,7 +18,8 @@ https://www.mapillary.com/dataset/trafficsign<br/>
 <mark>Yolo.ipynb</mark> is jupyter notebook import Yolov8 model from torch and training and validation performance of model  using large size dataset.<br/>
 <mark>Yolo2.ipynb</mark> is jupyter notebook import Yolov8 model from torch and training and validation performance of model using small size dataset.<br/>
 <mark>yolov8n.pt</mark>Yolo model from torch<br/>
-<mark>runs/detect/train2/</mark> this is model that train in the last, best model under dataset training<br/>
+<mark>runs/detect/train2/</mark> this is model that train in the last, best model under dataset training（large dataset)<br/>
+<mark>runs/detect/train3/</mark> this is model that train in the last, best model under dataset training (small dataset)<br/>
 <mark>Youtube for how Yolov8 model and Fine-tuning model performance on video</mark>:<br/>
 Fine-tuning:<br/>
 https://youtu.be/tGlPHtluUvg <br/>
